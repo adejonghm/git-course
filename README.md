@@ -1,1 +1,1 @@
-# git-course
+# Treinamento Git para funcionários
